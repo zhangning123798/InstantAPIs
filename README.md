@@ -1,4 +1,4 @@
-自动生成API
+根据数据库表自动生成API
 # InstantAPIs
 
 [![Nuget](https://img.shields.io/nuget/v/Fritz.InstantAPIs)](https://www.nuget.org/packages/Fritz.InstantAPIs/)
