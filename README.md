@@ -1,3 +1,4 @@
+自动生成API
 # InstantAPIs
 
 [![Nuget](https://img.shields.io/nuget/v/Fritz.InstantAPIs)](https://www.nuget.org/packages/Fritz.InstantAPIs/)
